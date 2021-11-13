@@ -3,7 +3,7 @@ How to use the script.
 (This script is made for chrome browser)
 
 This script is originally made for messing with phising sites to confuse the
-site users with fake credentials. Script is tested in a windows environment.
+site owners with fake credentials. Script is tested in a windows environment.
 
 NOTE :- This script is developed to work for my needs, so you must modify the
 script to work as you needed.
