@@ -8,7 +8,7 @@ site owners with fake credentials. Script is tested in a windows environment.
 NOTE :- This script is developed to work for my needs, so you must modify the
 script to work as you needed.
 
-I recommand you read the documentation of selenium web driver module on
+I recommand you to read the documentation of selenium web driver module on
 
 https://www.selenium.dev/documentation/webdriver/
 
