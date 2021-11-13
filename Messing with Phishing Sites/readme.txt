@@ -14,7 +14,7 @@ https://www.selenium.dev/documentation/webdriver/
 
 as for other important stuff:
 
-If you want to get a xpath of a element in a website just use "inspect
+If you want to get a xpath of an element in a website just use "inspect
 elements" option on your web browser and right click on the element you need to
 collect the xpath of and you can see a option called "copy" from there you can
 copy the xpath of that element accurately.
