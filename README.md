@@ -1,5 +1,5 @@
 # fun-projects
-This python scripts are made for messing with my friends.
+These python scripts are made for messing with my friends.
 
 All the projects here are made purely for demonstration purposes and education purposes.
 These scripts were tested on my friends on thier own free will.
